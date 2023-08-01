@@ -1,0 +1,37 @@
+:root {
+  --clr-primary-900: #044e54;
+  --clr-primary-800: #0a6c74;
+  --clr-primary-700: #0e7c86;
+  --clr-primary-600: #14919b;
+  --clr-primary-500: #2cb1bc;
+  --clr-primary-400: #38bec9;
+  --clr-primary-300: #54d1db;
+  --clr-primary-200: #87eaf2;
+  --clr-primary-100: #bef8fd;
+  --clr-primary-050: #e0fcff;
+
+  --clr-secondary-900: #003e6b;
+  --clr-secondary-800: #0a558c;
+  --clr-secondary-700: #0f609b;
+  --clr-secondary-600: #186faf;
+  --clr-secondary-500: #2680c2;
+  --clr-secondary-400: #4098d7;
+  --clr-secondary-300: #62b0e8;
+  --clr-secondary-200: #84c5f4;
+  --clr-secondary-100: #b6e0fe;
+  --clr-secondary-050: #dceefb;
+
+  --clr-grey-900: #27241d;
+  --clr-grey-800: #423d33;
+  --clr-grey-700: #504a40;
+  --clr-grey-600: #625d52;
+  --clr-grey-500: #857f72;
+  --clr-grey-400: #a39e93;
+  --clr-grey-300: #b8b2a7;
+  --clr-grey-200: #d3cec4;
+  --clr-grey-100: #e8e6e1;
+  --clr-grey-050: #faf9f7;
+
+  --clr-white: #ffffff;
+  --clr-black: #121212;
+}
